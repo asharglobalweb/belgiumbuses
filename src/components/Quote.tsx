@@ -59,7 +59,7 @@ export default function ContactForm() {
         <input
           type="hidden"
           name="_subject"
-          value="New Travel Request from Website"
+          value="Belgium Buses"
         />
 
         {/* Reason for Travel */}
