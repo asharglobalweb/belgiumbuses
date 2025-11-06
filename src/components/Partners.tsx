@@ -6,16 +6,16 @@ import "swiper/css";
 import Image from "next/image";
 
 const partners = [
-  { name: "Alpadia Language Schools", logo: "/images/partner/psg.png" },
+  { name: "Alpadia Language Schools", logo: "/images/partner/uefa.png" },
   { name: "Apple", logo: "/images/partner/apple-logo-banner.avif" },
   { name: "Nintendo", logo: "/images/partner/nintendo-logo-banner.avif" },
-  { name: "Roland Garros", logo: "/images/partner/ttl.png" },
-  { name: "Fnac", logo: "/images/partner/if.png" },
-  { name: "Sorbonne Université", logo: "/images/partner/su.png" },
-  { name: "Accor Hotels", logo: "/images/partner/ac.png" },
-  { name: "TF1", logo: "/images/partner/rn.png" },
-  { name: "Orange", logo: "/images/partner/ul.png" },
-  { name: "Alliance Française", logo: "/images/partner/af.png" },
+  { name: "Roland Garros", logo: "/images/partner/un.png" },
+  { name: "Fnac", logo: "/images/partner/ab.png" },
+  { name: "Sorbonne Université", logo: "/images/partner/ef.png" },
+  { name: "Accor Hotels", logo: "/images/partner/sh.png" },
+  { name: "TF1", logo: "/images/partner/ew.png" },
+  { name: "Orange", logo: "/images/partner/rn.png" },
+  { name: "Alliance Française", logo: "/images/partner/mi.png" },
 ];
 
 export default function PartnersSwiper() {
